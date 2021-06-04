@@ -23,7 +23,6 @@ app.get('/abc', (request, response) => {
 
 })
 app.post('/abc', (request, response) => {
-  c
   response.send('ok')
 })
 
